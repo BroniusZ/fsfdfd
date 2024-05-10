@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T11:39:28.845Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.3.1" etag="pt5kaZTp32DIW8N3VCER" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-10T11:46:12.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="jPhm-2W8gLRGS6NUBceF" version="24.3.1" type="github">
   <diagram name="Page-1" id="0R34QaaVav0Rsy0qjkBx">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HAT5bEQE4y8Vhxit0lah-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HAT5bEQE4y8Vhxit0lah-1" target="HAT5bEQE4y8Vhxit0lah-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HAT5bEQE4y8Vhxit0lah-1" value="Bioreaktorius" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HAT5bEQE4y8Vhxit0lah-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HAT5bEQE4y8Vhxit0lah-2" target="HAT5bEQE4y8Vhxit0lah-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HAT5bEQE4y8Vhxit0lah-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HAT5bEQE4y8Vhxit0lah-2" target="HAT5bEQE4y8Vhxit0lah-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HAT5bEQE4y8Vhxit0lah-2" value="Pirminis valymas" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HAT5bEQE4y8Vhxit0lah-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HAT5bEQE4y8Vhxit0lah-4" target="HAT5bEQE4y8Vhxit0lah-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HAT5bEQE4y8Vhxit0lah-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HAT5bEQE4y8Vhxit0lah-4" target="HAT5bEQE4y8Vhxit0lah-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HAT5bEQE4y8Vhxit0lah-4" value="Biometano gamyba" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HAT5bEQE4y8Vhxit0lah-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HAT5bEQE4y8Vhxit0lah-6" target="HAT5bEQE4y8Vhxit0lah-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HAT5bEQE4y8Vhxit0lah-6" value="Slėgimas" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HAT5bEQE4y8Vhxit0lah-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HAT5bEQE4y8Vhxit0lah-8" target="HAT5bEQE4y8Vhxit0lah-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HAT5bEQE4y8Vhxit0lah-8" value="Transportavimas" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HAT5bEQE4y8Vhxit0lah-10" value="Gamtinių dujų tinklas arba kiti galutiniai vartotojai" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HAT5bEQE4y8Vhxit0lah-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HAT5bEQE4y8Vhxit0lah-12" target="HAT5bEQE4y8Vhxit0lah-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HAT5bEQE4y8Vhxit0lah-12" value="Anglies dioksidas su metano priemaišomis" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HAT5bEQE4y8Vhxit0lah-14" value="Biodujų katilas" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
